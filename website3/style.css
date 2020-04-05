@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.main {
+    background-color: gainsboro;
+    width: 900px;
+    padding: 5%;
+    margin-left: 10%;
+    margin-top:1%;
+    margin-bottom: 2%;
+}
+
+p {
+    margin: 5px;
+}
+
+ .main button {
+    background-color: blue;
+    color: white;
+    padding: 2px;
+    
+}
+
+section{
+     margin-left: 10%;
+}
+
+
+.section1{
+width: 30%;
+display: inline-block;
+}
+
+.section2{
+    width: 30%;
+    display: inline-block;
+}
+
+.section3{
+    width: 30%;
+    display: inline-block;
+}

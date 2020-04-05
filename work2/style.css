@@ -1,0 +1,40 @@
+body{
+    margin: 0;    
+}
+.main-heading {
+    background-color: #989898;
+    padding: 2%;
+    color: white;
+}
+.main-heading h1 {
+    margin: 0;
+    text-transform: capitalize;
+}
+.navigation {
+    background-color: black;
+    padding: 1% 2%;
+    color: white;
+}
+.navigation nav span {
+    display: inline-block;
+    margin-right: 15px;
+    text-transform: capitalize;
+}
+p{
+    text-indent: 3px; 
+}
+     
+  section {
+    padding: 20px;
+      width: 65%;
+      display: inline-block;
+      box-sizing: border-box;
+      margin: 0;
+  }   
+  .other-post {
+      margin: 0;
+      width: 30%;
+      display: inline-block;
+      box-sizing: border-box;
+      vertical-align: top;
+  }

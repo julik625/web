@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'montserrat', sans-serif;
+}
+
+.main-heading {
+    background-color: tomato;
+    padding: 1%;
+    color: white;
+    font-size: 20px;
+    text-indent: 3%;
+}
+
+.navigation {
+    background-color: rgb(120, 57, 184);
+    color: white;
+    padding: 0.1% 1%;
+    text-indent: -10px;
+}
+
+.navigation nav ul li {
+display: inline-block;
+margin-right: 50px;
+text-transform: capitalize;
+
+}
+
+section h2 {
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
+
+section p{
+    margin-bottom: 1%;
+}
+
+section{
+    padding: 25px;
+    width: 75%;
+    margin: 0;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.other-post {
+    margin: 0;
+    width: 25%;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+    border:  2px solid black;
+    width: 300px;
+    margin-top: 2%;
+    text-indent: 10px;
+}
+
+.footer-list {
+    background-color: grey;
+    padding: 5px;
+    text-indent: 15px;
+}
